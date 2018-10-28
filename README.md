@@ -1,3 +1,3 @@
-# hugo-quickstart
+## hugo-quickstart
 
-This is my first attempt to make a website with hugo.
+This is my first attempt to make a website with [hugo](https://gohugo.io).
